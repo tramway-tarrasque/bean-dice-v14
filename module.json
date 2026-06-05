@@ -29,5 +29,5 @@
   ],
 
   "manifest": "https://raw.githubusercontent.com/tramway-tarrasque/bean-dice-v14/refs/heads/master/module.json",
-  "download": "https://github.com/rsbisho2/bean-dice/raw/master/releases/download/0.1.1/module.zip"
+  "download": "https://github.com/tramway-tarrasque/bean-dice-v14/releases/download/default/module.zip"
 }
