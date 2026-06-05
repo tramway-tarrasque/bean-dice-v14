@@ -1,5 +1,6 @@
 {
     "name": "bean-dice",
+    "id": "bean-dice",
     "title": "Bean Dice",
     "description": "A simple module to add bean textures to Dice-So-Nice",
     "author": "coffee",
