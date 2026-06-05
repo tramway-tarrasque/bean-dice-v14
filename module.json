@@ -28,5 +28,6 @@
     "scripts/main.js"
   ],
 
-  "manifest": "...",
-  "download": "..
+  "manifest": "https://github.com/tramway-tarrasque/bean-dice-v14/blob/master/module.json",
+  "download": "https://github.com/rsbisho2/bean-dice/raw/master/releases/download/0.1.1/module.zip"
+}
